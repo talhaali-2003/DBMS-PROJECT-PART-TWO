@@ -2,7 +2,8 @@
 DBMS-Project-Part-1
 The people who contributed on this project are Talha Ali, and Ibrahim Adegunlola,
 
-Talha Ali Contributions: login.jsp, registration.jsp, rootView.jsp, UserDAO.java(Collabaritive Effort), user.jsp Ibrahim Adegunlola Contributions: login.jsp, Users.java, activityPage.jsp, quote.jsp, user.java, UserDAO.java(Collabiritive effort)
+Talha Ali Contributions: clientportal.jsp, clientregistration,jsp, currentQuoteRequests.jsp, ControlServlet.java(collaborative) 
+Ibrahim Adegunlola Contributions: davidSmith.jsp, treeRequest.jsp, updated rootView.jsp as well as MYSQL workbench Quote table, ControlServlet.java(collaborative)
 
 Total Time Worked On Project Together: 7 hours over 2 days
 
